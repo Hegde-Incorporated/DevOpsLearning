@@ -2,3 +2,4 @@ This is file B
 Changing file b
 Changing file again
 changed the fle to check oout merge requests
+I am changing the file for user 1. Check merge requests
